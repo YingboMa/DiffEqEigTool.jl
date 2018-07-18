@@ -1,0 +1,6 @@
+authors = ["YingboMa <mayingbo5@gmail.com>"]
+name = "DiffEqEigTool"
+uuid = "e8ce6d50-8a54-11e8-2cd8-15fa8998ed16"
+version = "0.1.0"
+
+[deps]
